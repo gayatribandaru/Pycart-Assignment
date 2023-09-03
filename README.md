@@ -3,7 +3,8 @@
 This repository contains an example Python script that demonstrates the use of the PyCaret library for a classification problem.
 
 Introduction
-The script uses PyCaret to set up the environment, create a model, evaluate it, and interpret its results. PyCaret's low-code environment enables quick experimentation, which is helpful in machine learning projects.
+The script uses PyCaret to set up the environment, create a model, evaluate it, and interpret its results. 
+PyCaret's low-code environment gives us the quick results.
 
 Requirements
 Python 3.x
@@ -24,6 +25,7 @@ python your_script.py
 Replace your_username, your_repository, and your_script.py with the actual GitHub username, repository name, and Python script name.
 
 Features
+
 Data Setup: Initializes the PyCaret environment.
 Model Creation: Creates a Random Forest Classifier model.
 Model Evaluation: Provides an interactive dashboard for model evaluation.
