@@ -35,5 +35,14 @@ Model Creation: Creates a Random Forest Classifier model.
 Model Evaluation: Provides an interactive dashboard for model evaluation.
 Model Interpretation: Uses SHAP values for interpreting the model.
 Plot Model: Plots feature importance.
-Pull Metrics: Retrieves the evaluation metrics as a DataFrame.
+Pull Metrics: Ret!
+rieves the evaluation metrics as a DataFrame.
+
+<img width="1710" alt="Screenshot 2023-09-02 at 5 06 00 PM" src="https://github.com/gayatribandaru/Pycart-Assignment/assets/59916012/52b9b985-f04a-47cc-a754-7a51e4c90bab">
+
+
+<img width="1710" alt="Screenshot 2023-09-02 at 6 19 53 PM" src="https://github.com/gayatribandaru/Pycart-Assignment/assets/59916012/0c280f8d-f608-4381-b7d6-db4825dc1821">
+
+<img width="1710" alt="Screenshot 2023-09-02 at 6 21 53 PM" src="https://github.com/gayatribandaru/Pycart-Assignment/assets/59916012/15830fa0-4158-477f-b5de-d6ee1ed6294b">
+
 
