@@ -2,7 +2,7 @@
 
 This repository contains an example Python script that demonstrates the use of the PyCaret library for a classification problem, Jadbio, Gradio Demo's.
 
-DEMO LINKS FOR THE ASSIGNMENT 2 :
+DEMO LINKS FOR THE ASSIGNMENT 2 (JADBIO, GRADIO) :
 
 https://drive.google.com/drive/folders/15SMc-HtsOU3iTUfOtEa_jnYKFcntESt0?usp=drive_link
 
