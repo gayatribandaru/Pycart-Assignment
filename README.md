@@ -1,6 +1,10 @@
 # Pycart-Assignment
 
-This repository contains an example Python script that demonstrates the use of the PyCaret library for a classification problem.
+This repository contains an example Python script that demonstrates the use of the PyCaret library for a classification problem, Jadbio, Gradio Demo's.
+
+DEMO LINKS FOR THE ASSIGNMENT 2 :
+
+https://drive.google.com/drive/folders/15SMc-HtsOU3iTUfOtEa_jnYKFcntESt0?usp=drive_link
 
 Introduction
 The script uses PyCaret to set up the environment, create a model, evaluate it, and interpret its results. 
